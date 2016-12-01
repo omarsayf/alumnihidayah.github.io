@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-11-30_1327",
+    "name": "PaLS",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -23,14 +23,18 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 5,
     "versionPublish": "3.9.2",
-    "publishType": "github"
+    "publishType": "github",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-pals-128x127-89.jpg",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Persatuan Alumni Sekolah Islam Hidayah (PaLS)",
+        "meta_descr": "alumni, school, brotherhood",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
